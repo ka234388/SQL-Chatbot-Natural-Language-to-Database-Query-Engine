@@ -240,7 +240,7 @@ __pycache__/
 
 ## 👩‍💻 Author
 
-**Karthika Devi**
+**Karthika Ramasamy**
 Graduate Student — Computer Vision & AI
 University of Central Florida (UCF)
 
